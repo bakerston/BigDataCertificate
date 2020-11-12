@@ -1,0 +1,19 @@
+Quiz 5 - Assessment Questions on 'Practicing Graph Analytics in Neo4j With Cypher'
+
+1.9656  
+
+2.46621   
+
+3.1221
+
+4.the count of all non loop edges between every adjacent node pair.
+
+5.the pair of nodes with the maximum number of multi-edges between them.
+
+6.The 2-neighborhood of the node whose name is ‘BRCA1’
+
+7.9
+
+8.SNCA and BRCA1
+
+9.821
